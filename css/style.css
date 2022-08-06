@@ -1940,14 +1940,14 @@ margin-top: -100px;
 .product .product_box {margin-bottom: 30px;}
 .product .product_box figure {margin: 0px; position: relative;}
 .product .product_box figure h3 {
- position: absolute;
+ position: relative;
 bottom: 0;
 text-align: center;
 width: 100%;
 background: #251d01d4;
 padding: 10px 13px 13px 13px;
 font-size: 30px;
-line-height: 40px;
+/* line-height: 40px; */
 font-weight: 500;
 color: #fff;
 box-sizing: border-box;
